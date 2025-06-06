@@ -55,6 +55,12 @@ Sobre mi puedo decir que me encanta todo lo que tenga que ver con la cultura can
 - Segundo elemento
 - Tercer elemento  
 
+<picture>
+<img
+    alt="Imagen que veremos."
+    src="https://lantigua21.com/programmer.png"
+    style0"width: 200px; height: 200px; "
+</picture>
 
  
 
