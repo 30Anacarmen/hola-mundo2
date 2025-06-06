@@ -26,6 +26,11 @@ Sobre mi puedo decir que me encanta todo lo que tenga que ver con la cultura can
 |     3| SQL       |
 |     4| HTML5     |
 |     5| CSS       |
+
+<details></details>
+- Ana
+- Isabel 
+- J.J.
  
 
 
