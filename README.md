@@ -27,10 +27,23 @@ Sobre mi puedo decir que me encanta todo lo que tenga que ver con la cultura can
 |     4| HTML5     |
 |     5| CSS       |
 
-<details></details>
+<details>
+  <sumary>Lenguajes utilizados</sumary>
+| Rank | Languages |
+|-----:| ----------|
+|     1| JavasCript|
+|     2| PHP       |
+|     3| SQL       |
+|     4| HTML5     |
+|     5| CSS       |
+</details>
+<details>
+  <sumary>Listado alumnos</sumary>
 - Ana
 - Isabel 
 - J.J.
+</details>
+
  
 
 
